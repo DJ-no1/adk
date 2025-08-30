@@ -3,7 +3,7 @@ yfinance==0.2.56
 psutil==5.9.5
 litellm==1.66.3
 google-generativeai==0.8.5
-python-dotenv==1.1.0
+streamlit==1.39.0
 absolufy-imports==0.3.1
 alembic==1.16.5
 annotated-types==0.7.0
@@ -20,7 +20,6 @@ colorama==0.4.6
 cryptography==45.0.6
 docstring_parser==0.17.0
 fastapi==0.116.1
-google-adk==1.13.0
 google-api-core==2.25.1
 google-api-python-client==2.179.0
 google-auth==2.40.3
@@ -66,9 +65,7 @@ opentelemetry-exporter-gcp-trace==1.9.0
 opentelemetry-resourcedetector-gcp==1.9.0a0
 opentelemetry-sdk==1.36.0
 opentelemetry-semantic-conventions==0.57b0
-packaging==25.0
 proto-plus==1.26.1
-protobuf==6.32.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pycparser==2.22
@@ -82,7 +79,6 @@ python-multipart==0.0.20
 pywin32==311
 PyYAML==6.0.2
 referencing==0.36.2
-requests==2.32.5
 rpds-py==0.27.1
 rsa==4.9.1
 shapely==2.1.1
@@ -101,6 +97,14 @@ tzlocal==5.3.1
 uritemplate==4.2.0
 urllib3==2.5.0
 uvicorn==0.35.0
-watchdog==6.0.0
 websockets==15.0.1
 zipp==3.23.0
+matplotlib==3.8.2
+plotly==5.17.0
+xarray==2023.12.0
+netCDF4==1.6.5
+requests==2.32.5
+rich==13.7.0
+pandas==2.1.4
+beautifulsoup4==4.12.2
+lxml==4.9.3
